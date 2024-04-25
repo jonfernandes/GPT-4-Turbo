@@ -1,0 +1,885 @@
+City,Edition,Sport,Discipline,Athlete,NOC,Gender,Event,Event_gender,Medal
+Paris,1924,Aquatics,Diving,"PINKSTON, Clarence",USA,Men,10m platform,M,Bronze
+Paris,1924,Aquatics,Diving,"WHITE, Albert",USA,Men,10m platform,M,Gold
+Paris,1924,Aquatics,Diving,"FALL, David",USA,Men,10m platform,M,Silver
+Paris,1924,Aquatics,Diving,"TÖPEL, Hjördis",SWE,Women,10m platform,W,Bronze
+Paris,1924,Aquatics,Diving,"SMITH, Caroline",USA,Women,10m platform,W,Gold
+Paris,1924,Aquatics,Diving,"BECKER-PINKSTON, Elizabeth",USA,Women,10m platform,W,Silver
+Paris,1924,Aquatics,Diving,"PINKSTON, Clarence",USA,Men,3m springboard,M,Bronze
+Paris,1924,Aquatics,Diving,"WHITE, Albert",USA,Men,3m springboard,M,Gold
+Paris,1924,Aquatics,Diving,"DESJARDINS, Ulise Joseph ""Peter""",USA,Men,3m springboard,M,Silver
+Paris,1924,Aquatics,Diving,"FLETCHER, Caroline",USA,Women,3m springboard,W,Bronze
+Paris,1924,Aquatics,Diving,"BECKER-PINKSTON, Elizabeth",USA,Women,3m springboard,W,Gold
+Paris,1924,Aquatics,Diving,"RIGGIN, Aileen",USA,Women,3m springboard,W,Silver
+Paris,1924,Aquatics,Diving,"CLARKE, Harold",GBR,Men,plain high diving,M,Bronze
+Paris,1924,Aquatics,Diving,"EVE, Richmond",AUS,Men,plain high diving,M,Gold
+Paris,1924,Aquatics,Diving,"JANSSON, John",SWE,Men,plain high diving,M,Silver
+Paris,1924,Aquatics,Swimming,"BARTHA, István",HUN,Men,100m backstroke,M,Bronze
+Paris,1924,Aquatics,Swimming,"KEALOHA, Warren Paoa",USA,Men,100m backstroke,M,Gold
+Paris,1924,Aquatics,Swimming,"WYATT, Paul",USA,Men,100m backstroke,M,Silver
+Paris,1924,Aquatics,Swimming,"RIGGIN, Aileen",USA,Women,100m backstroke,W,Bronze
+Paris,1924,Aquatics,Swimming,"BAUER, Sybil",USA,Women,100m backstroke,W,Gold
+Paris,1924,Aquatics,Swimming,"HARDING, Phyllis",GBR,Women,100m backstroke,W,Silver
+Paris,1924,Aquatics,Swimming,"KAHANAMOKU, Samuel",USA,Men,100m freestyle,M,Bronze
+Paris,1924,Aquatics,Swimming,"WEISSMULLER, Johnny",USA,Men,100m freestyle,M,Gold
+Paris,1924,Aquatics,Swimming,"KAHANAMOKU, Duke Paoa",USA,Men,100m freestyle,M,Silver
+Paris,1924,Aquatics,Swimming,"EDERLE, Gertrude",USA,Women,100m freestyle,W,Bronze
+Paris,1924,Aquatics,Swimming,"LACKIE, Ethel",USA,Women,100m freestyle,W,Gold
+Paris,1924,Aquatics,Swimming,"WEHSELAU, Mariechen",USA,Women,100m freestyle,W,Silver
+Paris,1924,Aquatics,Swimming,"DE BEAUREPAIRE, Frank",AUS,Men,1500m freestyle,M,Bronze
+Paris,1924,Aquatics,Swimming,"CHARLTON, Andrew",AUS,Men,1500m freestyle,M,Gold
+Paris,1924,Aquatics,Swimming,"BORG, Arne",SWE,Men,1500m freestyle,M,Silver
+Paris,1924,Aquatics,Swimming,"KIRSHBAUM, William",USA,Men,200m breaststroke,M,Bronze
+Paris,1924,Aquatics,Swimming,"SKELTON, Robert",USA,Men,200m breaststroke,M,Gold
+Paris,1924,Aquatics,Swimming,"DE COMBE, Joseph",BEL,Men,200m breaststroke,M,Silver
+Paris,1924,Aquatics,Swimming,"CARSON, Gladys",GBR,Women,200m breaststroke,W,Bronze
+Paris,1924,Aquatics,Swimming,"MORTON, Lucille",GBR,Women,200m breaststroke,W,Gold
+Paris,1924,Aquatics,Swimming,"GERAGHTY, Agnes",USA,Women,200m breaststroke,W,Silver
+Paris,1924,Aquatics,Swimming,"CHARLTON, Andrew",AUS,Men,400m freestyle,M,Bronze
+Paris,1924,Aquatics,Swimming,"WEISSMULLER, Johnny",USA,Men,400m freestyle,M,Gold
+Paris,1924,Aquatics,Swimming,"BORG, Arne",SWE,Men,400m freestyle,M,Silver
+Paris,1924,Aquatics,Swimming,"EDERLE, Gertrude",USA,Women,400m freestyle,W,Bronze
+Paris,1924,Aquatics,Swimming,"NORELIUS, Martha",USA,Women,400m freestyle,W,Gold
+Paris,1924,Aquatics,Swimming,"WAINWRIGHT, Helen",USA,Women,400m freestyle,W,Silver
+Paris,1924,Aquatics,Swimming,"BERG, Aina",SWE,Women,4x100m freestyle relay,W,Bronze
+Paris,1924,Aquatics,Swimming,"EWERLUND, Gurli",SWE,Women,4x100m freestyle relay,W,Bronze
+Paris,1924,Aquatics,Swimming,"GYLLING, Jane",SWE,Women,4x100m freestyle relay,W,Bronze
+Paris,1924,Aquatics,Swimming,"PETTERSSON, Wivan",SWE,Women,4x100m freestyle relay,W,Bronze
+Paris,1924,Aquatics,Swimming,"TÖPEL, Hjördis",SWE,Women,4x100m freestyle relay,W,Bronze
+Paris,1924,Aquatics,Swimming,"DONNELLY, Euphrasia",USA,Women,4x100m freestyle relay,W,Gold
+Paris,1924,Aquatics,Swimming,"EDERLE, Gertrude",USA,Women,4x100m freestyle relay,W,Gold
+Paris,1924,Aquatics,Swimming,"LACKIE, Ethel",USA,Women,4x100m freestyle relay,W,Gold
+Paris,1924,Aquatics,Swimming,"NORELIUS, Martha",USA,Women,4x100m freestyle relay,W,Gold
+Paris,1924,Aquatics,Swimming,"WAINWRIGHT, Helen",USA,Women,4x100m freestyle relay,W,Gold
+Paris,1924,Aquatics,Swimming,"WEHSELAU, Mariechen",USA,Women,4x100m freestyle relay,W,Gold
+Paris,1924,Aquatics,Swimming,"BARKER, Florence",GBR,Women,4x100m freestyle relay,W,Silver
+Paris,1924,Aquatics,Swimming,"GANT, P.",GBR,Women,4x100m freestyle relay,W,Silver
+Paris,1924,Aquatics,Swimming,"HATCH, J. E.",GBR,Women,4x100m freestyle relay,W,Silver
+Paris,1924,Aquatics,Swimming,"JEANS, Constance Mabel",GBR,Women,4x100m freestyle relay,W,Silver
+Paris,1924,Aquatics,Swimming,"MAC KENZIE, Grace",GBR,Women,4x100m freestyle relay,W,Silver
+Paris,1924,Aquatics,Swimming,"TANNER, Irene Vera",GBR,Women,4x100m freestyle relay,W,Silver
+Paris,1924,Aquatics,Swimming,"BORG, Ake",SWE,Men,4x200m freestyle relay,M,Bronze
+Paris,1924,Aquatics,Swimming,"BORG, Arne",SWE,Men,4x200m freestyle relay,M,Bronze
+Paris,1924,Aquatics,Swimming,"HENNING, Tor",SWE,Men,4x200m freestyle relay,M,Bronze
+Paris,1924,Aquatics,Swimming,"PERSSON, O. Gösta A.",SWE,Men,4x200m freestyle relay,M,Bronze
+Paris,1924,Aquatics,Swimming,"TROLLE, Orvar",SWE,Men,4x200m freestyle relay,M,Bronze
+Paris,1924,Aquatics,Swimming,"WERNER, Georg",SWE,Men,4x200m freestyle relay,M,Bronze
+Paris,1924,Aquatics,Swimming,"BREYER, Ralph",USA,Men,4x200m freestyle relay,M,Gold
+Paris,1924,Aquatics,Swimming,"GLANCY, Harrison Smith",USA,Men,4x200m freestyle relay,M,Gold
+Paris,1924,Aquatics,Swimming,"HOWELL, Richard",USA,Men,4x200m freestyle relay,M,Gold
+Paris,1924,Aquatics,Swimming,"O'CONNOR, James Wallace",USA,Men,4x200m freestyle relay,M,Gold
+Paris,1924,Aquatics,Swimming,"SMITH, Lester",USA,Men,4x200m freestyle relay,M,Gold
+Paris,1924,Aquatics,Swimming,"WEISSMULLER, Johnny",USA,Men,4x200m freestyle relay,M,Gold
+Paris,1924,Aquatics,Swimming,"CHARLTON, Andrew",AUS,Men,4x200m freestyle relay,M,Silver
+Paris,1924,Aquatics,Swimming,"CHRISTIE, Maurice F.",AUS,Men,4x200m freestyle relay,M,Silver
+Paris,1924,Aquatics,Swimming,"DE BEAUREPAIRE, Frank",AUS,Men,4x200m freestyle relay,M,Silver
+Paris,1924,Aquatics,Swimming,"HENRY, Ernest M.",AUS,Men,4x200m freestyle relay,M,Silver
+Paris,1924,Aquatics,Swimming,"STEDMAN, Ivan",AUS,Men,4x200m freestyle relay,M,Silver
+Paris,1924,Aquatics,Water polo,"AUSTIN, Arthur",USA,Men,water polo,M,Bronze
+Paris,1924,Aquatics,Water polo,"COLLETT, E.",USA,Men,water polo,M,Bronze
+Paris,1924,Aquatics,Water polo,"HANDY, J.",USA,Men,water polo,M,Bronze
+Paris,1924,Aquatics,Water polo,"HORN, Oliver",USA,Men,water polo,M,Bronze
+Paris,1924,Aquatics,Water polo,"LAUER, Frederick",USA,Men,water polo,M,Bronze
+Paris,1924,Aquatics,Water polo,"MITCHELL, George F.",USA,Men,water polo,M,Bronze
+Paris,1924,Aquatics,Water polo,"NORTON, John",USA,Men,water polo,M,Bronze
+Paris,1924,Aquatics,Water polo,"O'CONNOR, James Wallace",USA,Men,water polo,M,Bronze
+Paris,1924,Aquatics,Water polo,"SCHROTH, George E.",USA,Men,water polo,M,Bronze
+Paris,1924,Aquatics,Water polo,"VOLLMER, Herbert Eberhard",USA,Men,water polo,M,Bronze
+Paris,1924,Aquatics,Water polo,"WEISSMULLER, Johnny",USA,Men,water polo,M,Bronze
+Paris,1924,Aquatics,Water polo,"BERTRAND, R.",FRA,Men,water polo,M,Gold
+Paris,1924,Aquatics,Water polo,"DEBORGIES, Albert",FRA,Men,water polo,M,Gold
+Paris,1924,Aquatics,Water polo,"DELBERGHE, Noël",FRA,Men,water polo,M,Gold
+Paris,1924,Aquatics,Water polo,"DESMETTRE, Robert",FRA,Men,water polo,M,Gold
+Paris,1924,Aquatics,Water polo,"DUJARDIN, Paul",FRA,Men,water polo,M,Gold
+Paris,1924,Aquatics,Water polo,"FASANI, A.",FRA,Men,water polo,M,Gold
+Paris,1924,Aquatics,Water polo,"LASQUIN, Jean",FRA,Men,water polo,M,Gold
+Paris,1924,Aquatics,Water polo,"MAYAUD, Albert",FRA,Men,water polo,M,Gold
+Paris,1924,Aquatics,Water polo,"PADOU SR., Henri",FRA,Men,water polo,M,Gold
+Paris,1924,Aquatics,Water polo,"PEROL, J.",FRA,Men,water polo,M,Gold
+Paris,1924,Aquatics,Water polo,"RIGAL, Georges",FRA,Men,water polo,M,Gold
+Paris,1924,Aquatics,Water polo,"BLITZ, Gerard",BEL,Men,water polo,M,Silver
+Paris,1924,Aquatics,Water polo,"BLITZ, Maurice",BEL,Men,water polo,M,Silver
+Paris,1924,Aquatics,Water polo,"CLUDTS, Joseph",BEL,Men,water polo,M,Silver
+Paris,1924,Aquatics,Water polo,"DE COMBE, Joseph",BEL,Men,water polo,M,Silver
+Paris,1924,Aquatics,Water polo,"DEWIN, Pierre",BEL,Men,water polo,M,Silver
+Paris,1924,Aquatics,Water polo,"DURANT, Albert",BEL,Men,water polo,M,Silver
+Paris,1924,Aquatics,Water polo,"FLEURIX, Georges",BEL,Men,water polo,M,Silver
+Paris,1924,Aquatics,Water polo,"GAILLY, Paul",BEL,Men,water polo,M,Silver
+Paris,1924,Aquatics,Water polo,"PLETINCX, Joseph",BEL,Men,water polo,M,Silver
+Paris,1924,Aquatics,Water polo,"THIRY, Jules",BEL,Men,water polo,M,Silver
+Paris,1924,Aquatics,Water polo,"VERMETTEN, Jean-Pierre",BEL,Men,water polo,M,Silver
+Paris,1924,Athletics,Athletics,"BERG, Eero",FIN,Men,10000m,M,Bronze
+Paris,1924,Athletics,Athletics,"RITOLA, Ville",FIN,Men,10000m,M,Gold
+Paris,1924,Athletics,Athletics,"WIDE, Edvin",SWE,Men,10000m,M,Silver
+Paris,1924,Athletics,Athletics,"MACMASTER, Cecil",RSA,Men,10000m walk,M,Bronze
+Paris,1924,Athletics,Athletics,"FRIGERIO, Ugo",ITA,Men,10000m walk,M,Gold
+Paris,1924,Athletics,Athletics,"GOODWIN, Gordon",GBR,Men,10000m walk,M,Silver
+Paris,1924,Athletics,Athletics,"PORRITT, Arthur",NZL,Men,100m,M,Bronze
+Paris,1924,Athletics,Athletics,"ABRAHAMS, Harold",GBR,Men,100m,M,Gold
+Paris,1924,Athletics,Athletics,"SCHOLZ, Jackson",USA,Men,100m,M,Silver
+Paris,1924,Athletics,Athletics,"PETTERSSON, Sten",SWE,Men,110m hurdles,M,Bronze
+Paris,1924,Athletics,Athletics,"KINSEY, Daniel",USA,Men,110m hurdles,M,Gold
+Paris,1924,Athletics,Athletics,"ATKINSON, Sidney",RSA,Men,110m hurdles,M,Silver
+Paris,1924,Athletics,Athletics,"STALLARD, Henry B.",GBR,Men,1500m,M,Bronze
+Paris,1924,Athletics,Athletics,"NURMI, Paavo",FIN,Men,1500m,M,Gold
+Paris,1924,Athletics,Athletics,"SCHÄRER, Wilhelm",SUI,Men,1500m,M,Silver
+Paris,1924,Athletics,Athletics,"LIDDELL, Eric Henry",GBR,Men,200m,M,Bronze
+Paris,1924,Athletics,Athletics,"SCHOLZ, Jackson",USA,Men,200m,M,Gold
+Paris,1924,Athletics,Athletics,"PADDOCK, Charles",USA,Men,200m,M,Silver
+Paris,1924,Athletics,Athletics,"BONTEMPS, Paul",FRA,Men,3000m steeplechase,M,Bronze
+Paris,1924,Athletics,Athletics,"RITOLA, Ville",FIN,Men,3000m steeplechase,M,Gold
+Paris,1924,Athletics,Athletics,"KATZ, Elias",FIN,Men,3000m steeplechase,M,Silver
+Paris,1924,Athletics,Athletics,"CONNOLLY, James",USA,Men,3000m team,M,Bronze
+Paris,1924,Athletics,Athletics,"COX, William",USA,Men,3000m team,M,Bronze
+Paris,1924,Athletics,Athletics,"KIRBY, Edward",USA,Men,3000m team,M,Bronze
+Paris,1924,Athletics,Athletics,"LARRIVEE, Leo",USA,Men,3000m team,M,Bronze
+Paris,1924,Athletics,Athletics,"RAY, Joseph",USA,Men,3000m team,M,Bronze
+Paris,1924,Athletics,Athletics,"TIBBETTS, Willard",USA,Men,3000m team,M,Bronze
+Paris,1924,Athletics,Athletics,"KATZ, Elias",FIN,Men,3000m team,M,Gold
+Paris,1924,Athletics,Athletics,"LIEWENDHAL, Frej",FIN,Men,3000m team,M,Gold
+Paris,1924,Athletics,Athletics,"NURMI, Paavo",FIN,Men,3000m team,M,Gold
+Paris,1924,Athletics,Athletics,"RITOLA, Ville",FIN,Men,3000m team,M,Gold
+Paris,1924,Athletics,Athletics,"SEPPÄLÄ, Eino",FIN,Men,3000m team,M,Gold
+Paris,1924,Athletics,Athletics,"TALJA, S.",FIN,Men,3000m team,M,Gold
+Paris,1924,Athletics,Athletics,"CLARK, Arthur",GBR,Men,3000m team,M,Silver
+Paris,1924,Athletics,Athletics,"MACDONALD, Bernard",GBR,Men,3000m team,M,Silver
+Paris,1924,Athletics,Athletics,"PORTER, Walter Harold",GBR,Men,3000m team,M,Silver
+Paris,1924,Athletics,Athletics,"SEAGROVE, William Raymond",GBR,Men,3000m team,M,Silver
+Paris,1924,Athletics,Athletics,"WEBBER, George J.",GBR,Men,3000m team,M,Silver
+Paris,1924,Athletics,Athletics,"BUTLER, Guy Montagu",GBR,Men,400m,M,Bronze
+Paris,1924,Athletics,Athletics,"LIDDELL, Eric Henry",GBR,Men,400m,M,Gold
+Paris,1924,Athletics,Athletics,"FITCH, Horatio",USA,Men,400m,M,Silver
+Paris,1924,Athletics,Athletics,"RILEY, Ivan",USA,Men,400m hurdles,M,Bronze
+Paris,1924,Athletics,Athletics,"TAYLOR, Frederick Morgan",USA,Men,400m hurdles,M,Gold
+Paris,1924,Athletics,Athletics,"VILEN, Erik Vilhelm",FIN,Men,400m hurdles,M,Silver
+Paris,1924,Athletics,Athletics,"BOOT, Jacobus",NED,Men,4x100m relay,M,Bronze
+Paris,1924,Athletics,Athletics,"BROOS, Henricus Adrianus",NED,Men,4x100m relay,M,Bronze
+Paris,1924,Athletics,Athletics,"DE VRIES, Jan Cornelis",NED,Men,4x100m relay,M,Bronze
+Paris,1924,Athletics,Athletics,"VAN DEN BERGE, Marinus",NED,Men,4x100m relay,M,Bronze
+Paris,1924,Athletics,Athletics,"CLARKE, Louis Alfred",USA,Men,4x100m relay,M,Gold
+Paris,1924,Athletics,Athletics,"HUSSEY, Francis",USA,Men,4x100m relay,M,Gold
+Paris,1924,Athletics,Athletics,"LECONEY, Jeremiah Alfred",USA,Men,4x100m relay,M,Gold
+Paris,1924,Athletics,Athletics,"MURCHISON, Loren",USA,Men,4x100m relay,M,Gold
+Paris,1924,Athletics,Athletics,"ABRAHAMS, Harold",GBR,Men,4x100m relay,M,Silver
+Paris,1924,Athletics,Athletics,"NICHOL, William Peter",GBR,Men,4x100m relay,M,Silver
+Paris,1924,Athletics,Athletics,"RANGELEY, Walter",GBR,Men,4x100m relay,M,Silver
+Paris,1924,Athletics,Athletics,"ROYLE, Lancelot Carrington",GBR,Men,4x100m relay,M,Silver
+Paris,1924,Athletics,Athletics,"BUTLER, Guy Montagu",GBR,Men,4x400m relay,M,Bronze
+Paris,1924,Athletics,Athletics,"RENWICK, George Russell",GBR,Men,4x400m relay,M,Bronze
+Paris,1924,Athletics,Athletics,"RIPLEY, Richard N.",GBR,Men,4x400m relay,M,Bronze
+Paris,1924,Athletics,Athletics,"TOMS, Edward James",GBR,Men,4x400m relay,M,Bronze
+Paris,1924,Athletics,Athletics,"COCHRANE, Commodore",USA,Men,4x400m relay,M,Gold
+Paris,1924,Athletics,Athletics,"HELFFRICH, Alan",USA,Men,4x400m relay,M,Gold
+Paris,1924,Athletics,Athletics,"MACDONALD, J. Oliver",USA,Men,4x400m relay,M,Gold
+Paris,1924,Athletics,Athletics,"STEPHENSON, William",USA,Men,4x400m relay,M,Gold
+Paris,1924,Athletics,Athletics,"BYLEHN, Erik",SWE,Men,4x400m relay,M,Silver
+Paris,1924,Athletics,Athletics,"ENGDAHL, Nils",SWE,Men,4x400m relay,M,Silver
+Paris,1924,Athletics,Athletics,"SVENSSON, Arthur",SWE,Men,4x400m relay,M,Silver
+Paris,1924,Athletics,Athletics,"WEIJNARTH, Gustaf",SWE,Men,4x400m relay,M,Silver
+Paris,1924,Athletics,Athletics,"WIDE, Edvin",SWE,Men,5000m,M,Bronze
+Paris,1924,Athletics,Athletics,"NURMI, Paavo",FIN,Men,5000m,M,Gold
+Paris,1924,Athletics,Athletics,"RITOLA, Ville",FIN,Men,5000m,M,Silver
+Paris,1924,Athletics,Athletics,"ENCK, Schuyler",USA,Men,800m,M,Bronze
+Paris,1924,Athletics,Athletics,"LOWE, Douglas Gordon",GBR,Men,800m,M,Gold
+Paris,1924,Athletics,Athletics,"MARTIN, Paul",SUI,Men,800m,M,Silver
+Paris,1924,Athletics,Athletics,"JOHNSON, Richard Earl",USA,Men,cross country individual,M,Bronze
+Paris,1924,Athletics,Athletics,"NURMI, Paavo",FIN,Men,cross country individual,M,Gold
+Paris,1924,Athletics,Athletics,"RITOLA, Ville",FIN,Men,cross country individual,M,Silver
+Paris,1924,Athletics,Athletics,"DOLQUES, L. Lucien",FRA,Men,cross country team,M,Bronze
+Paris,1924,Athletics,Athletics,"HEUET, Gaston",FRA,Men,cross country team,M,Bronze
+Paris,1924,Athletics,Athletics,"LAUSEIG, André",FRA,Men,cross country team,M,Bronze
+Paris,1924,Athletics,Athletics,"LAUVAUX, Henri",FRA,Men,cross country team,M,Bronze
+Paris,1924,Athletics,Athletics,"MARCHAL, Robert",FRA,Men,cross country team,M,Bronze
+Paris,1924,Athletics,Athletics,"NORLAND, Maurice",FRA,Men,cross country team,M,Bronze
+Paris,1924,Athletics,Athletics,"BERG, Eero",FIN,Men,cross country team,M,Gold
+Paris,1924,Athletics,Athletics,"LIIMATAINEN, Heikki",FIN,Men,cross country team,M,Gold
+Paris,1924,Athletics,Athletics,"NURMI, Paavo",FIN,Men,cross country team,M,Gold
+Paris,1924,Athletics,Athletics,"RASTAS, Eino",FIN,Men,cross country team,M,Gold
+Paris,1924,Athletics,Athletics,"RITOLA, Ville",FIN,Men,cross country team,M,Gold
+Paris,1924,Athletics,Athletics,"SIPILÄ, Väinö Jeremias",FIN,Men,cross country team,M,Gold
+Paris,1924,Athletics,Athletics,"BOOTH, Verne Hobson",USA,Men,cross country team,M,Silver
+Paris,1924,Athletics,Athletics,"FAGER, August",USA,Men,cross country team,M,Silver
+Paris,1924,Athletics,Athletics,"GRAY, John",USA,Men,cross country team,M,Silver
+Paris,1924,Athletics,Athletics,"HENIGAN, James",USA,Men,cross country team,M,Silver
+Paris,1924,Athletics,Athletics,"JOHNSON, Richard Earl",USA,Men,cross country team,M,Silver
+Paris,1924,Athletics,Athletics,"STUDENROTH, Arthur",USA,Men,cross country team,M,Silver
+Paris,1924,Athletics,Athletics,"KLUMBERG-KOLMPERE, Alexander",EST,Men,decathlon,M,Bronze
+Paris,1924,Athletics,Athletics,"OSBORN, Harold Marion",USA,Men,decathlon,M,Gold
+Paris,1924,Athletics,Athletics,"NORTON, Emerson",USA,Men,decathlon,M,Silver
+Paris,1924,Athletics,Athletics,"LIEB, Thomas John",USA,Men,discus throw,M,Bronze
+Paris,1924,Athletics,Athletics,"HOUSER, Lemuel Clarence",USA,Men,discus throw,M,Gold
+Paris,1924,Athletics,Athletics,"NIITTYMAA, Vilho Aleksander",FIN,Men,discus throw,M,Silver
+Paris,1924,Athletics,Athletics,"NOKES, Malcolm Cuthbert",GBR,Men,hammer throw,M,Bronze
+Paris,1924,Athletics,Athletics,"TOOTELL, Frederick Delmont",USA,Men,hammer throw,M,Gold
+Paris,1924,Athletics,Athletics,"MCGRATH, Matthew J.",USA,Men,hammer throw,M,Silver
+Paris,1924,Athletics,Athletics,"LEWDEN, Pierre",FRA,Men,high jump,M,Bronze
+Paris,1924,Athletics,Athletics,"OSBORN, Harold Marion",USA,Men,high jump,M,Gold
+Paris,1924,Athletics,Athletics,"BROWN, Leroy Taylor",USA,Men,high jump,M,Silver
+Paris,1924,Athletics,Athletics,"OBERST, Eugene",USA,Men,javelin throw,M,Bronze
+Paris,1924,Athletics,Athletics,"MYYRÄ, Jonni",FIN,Men,javelin throw,M,Gold
+Paris,1924,Athletics,Athletics,"LINDSTRÖM, Gunnar",SWE,Men,javelin throw,M,Silver
+Paris,1924,Athletics,Athletics,"HANSEN, Sverre",NOR,Men,long jump,M,Bronze
+Paris,1924,Athletics,Athletics,"HUBBARD, William De Hart",USA,Men,long jump,M,Gold
+Paris,1924,Athletics,Athletics,"GOURDIN, Edward Orval",USA,Men,long jump,M,Silver
+Paris,1924,Athletics,Athletics,"DE MAR, Clarence Harrison",USA,Men,marathon,M,Bronze
+Paris,1924,Athletics,Athletics,"STENROOS, Albin Oskar",FIN,Men,marathon,M,Gold
+Paris,1924,Athletics,Athletics,"BERTINI, Romeo",ITA,Men,marathon,M,Silver
+Paris,1924,Athletics,Athletics,"LE GENDRE, Robert Lucien",USA,Men,pentathlon,M,Bronze
+Paris,1924,Athletics,Athletics,"LEHTONEN, Eero Reino",FIN,Men,pentathlon,M,Gold
+Paris,1924,Athletics,Athletics,"SOMFAY, Elemer",HUN,Men,pentathlon,M,Silver
+Paris,1924,Athletics,Athletics,"BROOKER, James K.",USA,Men,pole vault,M,Bronze
+Paris,1924,Athletics,Athletics,"BARNES, Lee",USA,Men,pole vault,M,Gold
+Paris,1924,Athletics,Athletics,"GRAHAM, Glenn",USA,Men,pole vault,M,Silver
+Paris,1924,Athletics,Athletics,"HILLS, Ralph Gorman",USA,Men,shot put,M,Bronze
+Paris,1924,Athletics,Athletics,"HOUSER, Lemuel Clarence",USA,Men,shot put,M,Gold
+Paris,1924,Athletics,Athletics,"HARTRANFT, Glenn",USA,Men,shot put,M,Silver
+Paris,1924,Athletics,Athletics,"TUULOS, Vilho Immanuel",FIN,Men,triple jump,M,Bronze
+Paris,1924,Athletics,Athletics,"WINTER, Anthony William",AUS,Men,triple jump,M,Gold
+Paris,1924,Athletics,Athletics,"BRUNETO, Luis",ARG,Men,triple jump,M,Silver
+Paris,1924,Boxing,Boxing,"FEE, Raymond",USA,Men,- 50.8kg (flyweight),M,Bronze
+Paris,1924,Boxing,Boxing,"LA BARBA, Fidel",USA,Men,- 50.8kg (flyweight),M,Gold
+Paris,1924,Boxing,Boxing,"MAC KENZIE, James",GBR,Men,- 50.8kg (flyweight),M,Silver
+Paris,1924,Boxing,Boxing,"PORZIO, Alfredo",ARG,Men,+ 79.38kg (heavyweight),M,Bronze
+Paris,1924,Boxing,Boxing,"VON PORAT, Otto",NOR,Men,+ 79.38kg (heavyweight),M,Gold
+Paris,1924,Boxing,Boxing,"PETERSEN, Sören",DEN,Men,+ 79.38kg (heavyweight),M,Silver
+Paris,1924,Boxing,Boxing,"CES, Jean",FRA,Men,50.8 - 53.52kg (bantamweight),M,Bronze
+Paris,1924,Boxing,Boxing,"SMITH, William H.",RSA,Men,50.8 - 53.52kg (bantamweight),M,Gold
+Paris,1924,Boxing,Boxing,"TRIPOLI, Salvatore",USA,Men,50.8 - 53.52kg (bantamweight),M,Silver
+Paris,1924,Boxing,Boxing,"QUARTUCCI, Pedro",ARG,Men,53.52 - 57.15kg (featherweight),M,Bronze
+Paris,1924,Boxing,Boxing,"FIELDS, John",USA,Men,53.52 - 57.15kg (featherweight),M,Gold
+Paris,1924,Boxing,Boxing,"SALAS, Joseph",USA,Men,53.52 - 57.15kg (featherweight),M,Silver
+Paris,1924,Boxing,Boxing,"BOYLSTEIN, Frederick",USA,Men,57.15 - 61.24kg (lightweight),M,Bronze
+Paris,1924,Boxing,Boxing,"NIELSEN, Hans Jacob",DEN,Men,57.15 - 61.24kg (lightweight),M,Gold
+Paris,1924,Boxing,Boxing,"COPELLO, Alfredo",ARG,Men,57.15 - 61.24kg (lightweight),M,Silver
+Paris,1924,Boxing,Boxing,"LEWIS, Douglas",CAN,Men,61.24 - 66.68kg (welterweight),M,Bronze
+Paris,1924,Boxing,Boxing,"DELARGE, Jean",BEL,Men,61.24 - 66.68kg (welterweight),M,Gold
+Paris,1924,Boxing,Boxing,"MENDEZ, Hector",ARG,Men,61.24 - 66.68kg (welterweight),M,Silver
+Paris,1924,Boxing,Boxing,"BEECKEN, Joseph Jules",BEL,Men,66.68 - 72.57kg (middleweight),M,Bronze
+Paris,1924,Boxing,Boxing,"MALLIN, Harry William",GBR,Men,66.68 - 72.57kg (middleweight),M,Gold
+Paris,1924,Boxing,Boxing,"ELLIOTT, John",GBR,Men,66.68 - 72.57kg (middleweight),M,Silver
+Paris,1924,Boxing,Boxing,"SÖRSDAL, Sverre",NOR,Men,72.57 - 79.38kg (light-heavyweight),M,Bronze
+Paris,1924,Boxing,Boxing,"MITCHELL, Harry",GBR,Men,72.57 - 79.38kg (light-heavyweight),M,Gold
+Paris,1924,Boxing,Boxing,"PETERSEN, Thyge",DEN,Men,72.57 - 79.38kg (light-heavyweight),M,Silver
+Paris,1924,Cycling,Cycling Road,"HAMEL, René",FRA,Men,individual road race,M,Bronze
+Paris,1924,Cycling,Cycling Road,"BLANCHONNET, Armand",FRA,Men,individual road race,M,Gold
+Paris,1924,Cycling,Cycling Road,"HOEVENAERS, Henri",BEL,Men,individual road race,M,Silver
+Paris,1924,Cycling,Cycling Road,"BOHLIN, Eric",SWE,Men,team time trial,M,Bronze
+Paris,1924,Cycling,Cycling Road,"MALM, Ragnar",SWE,Men,team time trial,M,Bronze
+Paris,1924,Cycling,Cycling Road,"SKÖLD, Gunnar",SWE,Men,team time trial,M,Bronze
+Paris,1924,Cycling,Cycling Road,"BLANCHONNET, Armand",FRA,Men,team time trial,M,Gold
+Paris,1924,Cycling,Cycling Road,"HAMEL, René",FRA,Men,team time trial,M,Gold
+Paris,1924,Cycling,Cycling Road,"WAMBST, Georges",FRA,Men,team time trial,M,Gold
+Paris,1924,Cycling,Cycling Road,"HOEVENAERS, Henri",BEL,Men,team time trial,M,Silver
+Paris,1924,Cycling,Cycling Road,"PARFONDRY, Alphonse",BEL,Men,team time trial,M,Silver
+Paris,1924,Cycling,Cycling Road,"VAN DEN BOSCH, Jean",BEL,Men,team time trial,M,Silver
+Paris,1924,Cycling,Cycling Track,"BOSCH VAN DRAKESTEIN, Gerald Henri",NED,Men,2000m tandem,M,Bronze
+Paris,1924,Cycling,Cycling Track,"PEETERS, Mauritius",NED,Men,2000m tandem,M,Bronze
+Paris,1924,Cycling,Cycling Track,"CHOURY, Lucien",FRA,Men,2000m tandem,M,Gold
+Paris,1924,Cycling,Cycling Track,"CUGNOT, Jean",FRA,Men,2000m tandem,M,Gold
+Paris,1924,Cycling,Cycling Track,"FALCK HANSEN, Willy",DEN,Men,2000m tandem,M,Silver
+Paris,1924,Cycling,Cycling Track,"HANSEN, Edmund",DEN,Men,2000m tandem,M,Silver
+Paris,1924,Cycling,Cycling Track,"WYLD, Frederick Henry",GBR,Men,50km,M,Bronze
+Paris,1924,Cycling,Cycling Track,"WILLEMS, Jacobus",NED,Men,50km,M,Gold
+Paris,1924,Cycling,Cycling Track,"ALDEN, Cyril Albert",GBR,Men,50km,M,Silver
+Paris,1924,Cycling,Cycling Track,"CUGNOT, Jean",FRA,Men,Sprint indivual,M,Bronze
+Paris,1924,Cycling,Cycling Track,"MICHARD, Lucien",FRA,Men,Sprint indivual,M,Gold
+Paris,1924,Cycling,Cycling Track,"MEIJER, Jacob",NED,Men,Sprint indivual,M,Silver
+Paris,1924,Cycling,Cycling Track,"DAGHELINCKX, Gustave Léonard",BEL,Men,Team Pursuit (4000m),M,Bronze
+Paris,1924,Cycling,Cycling Track,"HOEVENAERS, Henri",BEL,Men,Team Pursuit (4000m),M,Bronze
+Paris,1924,Cycling,Cycling Track,"SAIVE, Ferdinand",BEL,Men,Team Pursuit (4000m),M,Bronze
+Paris,1924,Cycling,Cycling Track,"VAN DEN BOSCH, Jean",BEL,Men,Team Pursuit (4000m),M,Bronze
+Paris,1924,Cycling,Cycling Track,"DE MARTINO, Angelo",ITA,Men,Team Pursuit (4000m),M,Gold
+Paris,1924,Cycling,Cycling Track,"DINALE, Alfredo",ITA,Men,Team Pursuit (4000m),M,Gold
+Paris,1924,Cycling,Cycling Track,"MENEGAZZI, Aurelio",ITA,Men,Team Pursuit (4000m),M,Gold
+Paris,1924,Cycling,Cycling Track,"ZUCCHETTI, Francesco",ITA,Men,Team Pursuit (4000m),M,Gold
+Paris,1924,Cycling,Cycling Track,"LANGE, Jozef",POL,Men,Team Pursuit (4000m),M,Silver
+Paris,1924,Cycling,Cycling Track,"LAZARSKI, Jan",POL,Men,Team Pursuit (4000m),M,Silver
+Paris,1924,Cycling,Cycling Track,"STANKIEWICZ, Tomasz",POL,Men,Team Pursuit (4000m),M,Silver
+Paris,1924,Cycling,Cycling Track,"SZYMCZYK, Franciszek",POL,Men,Team Pursuit (4000m),M,Silver
+Paris,1924,Equestrian,Dressage,"LESAGE, Xavier François",FRA,Men,individual,X,Bronze
+Paris,1924,Equestrian,Dressage,"DE LINDER, Ernst",SWE,Men,individual,X,Gold
+Paris,1924,Equestrian,Dressage,"SANDSTRÖM, Bertil",SWE,Men,individual,X,Silver
+Paris,1924,Equestrian,Eventing,"DOAK, Sloan",USA,Men,individual,X,Bronze
+Paris,1924,Equestrian,Eventing,"VAN DER VOORT VAN ZIJP, Adolf Dirk C.",NED,Men,individual,X,Gold
+Paris,1924,Equestrian,Eventing,"KIRKEBJERG, Frode Rasmussen",DEN,Men,individual,X,Silver
+Paris,1924,Equestrian,Eventing,"ALVISI, Alessandro",ITA,Men,team,X,Bronze
+Paris,1924,Equestrian,Eventing,"DI PRALORMO, Emanuele",ITA,Men,team,X,Bronze
+Paris,1924,Equestrian,Eventing,"LEQUIO DI ASSABA, Tommaso",ITA,Men,team,X,Bronze
+Paris,1924,Equestrian,Eventing,"LOMBARDI, Alberto",ITA,Men,team,X,Bronze
+Paris,1924,Equestrian,Eventing,"COLENBRANDER, Antonius Theodorus",NED,Men,team,X,Gold
+Paris,1924,Equestrian,Eventing,"DE KRUIJFF, Gerard Pieter",NED,Men,team,X,Gold
+Paris,1924,Equestrian,Eventing,"PAHUD DE MORTANGES, Charles Ferdinand",NED,Men,team,X,Gold
+Paris,1924,Equestrian,Eventing,"VAN DER VOORT VAN ZIJP, Adolf Dirk C.",NED,Men,team,X,Gold
+Paris,1924,Equestrian,Eventing,"DE KÖNIG, Claës",SWE,Men,team,X,Silver
+Paris,1924,Equestrian,Eventing,"HAGELIN, Gustaf W.",SWE,Men,team,X,Silver
+Paris,1924,Equestrian,Eventing,"LEWENHAUPT, G. W.",SWE,Men,team,X,Silver
+Paris,1924,Equestrian,Eventing,"SYLVAN, C. Torsten L.",SWE,Men,team,X,Silver
+Paris,1924,Equestrian,Eventing,ANITA,SWE,Women,team,X,Silver
+Paris,1924,Equestrian,Jumping,"KROLIKIEWICZ, Adam",POL,Men,individual,X,Bronze
+Paris,1924,Equestrian,Jumping,"GEMUSEUS, Alphonse",SUI,Men,individual,X,Gold
+Paris,1924,Equestrian,Jumping,"LEQUIO DI ASSABA, Tommaso",ITA,Men,individual,X,Silver
+Paris,1924,Equestrian,Jumping,"BORGES D'ALMEIDA, Antonio",POR,Men,team,X,Bronze
+Paris,1924,Equestrian,Jumping,"DE SOUZA MARTINS, Helder",POR,Men,team,X,Bronze
+Paris,1924,Equestrian,Jumping,"MOUZINHO D'ALBUQUERQUE, José",POR,Men,team,X,Bronze
+Paris,1924,Equestrian,Jumping,"LUNDSTRÖM, Age",SWE,Men,team,X,Gold
+Paris,1924,Equestrian,Jumping,"STAHLE, Axel",SWE,Men,team,X,Gold
+Paris,1924,Equestrian,Jumping,"THELNING, Ake",SWE,Men,team,X,Gold
+Paris,1924,Equestrian,Jumping,"BÜHLER, Hans E.",SUI,Men,team,X,Silver
+Paris,1924,Equestrian,Jumping,"GEMUSEUS, Alphonse",SUI,Men,team,X,Silver
+Paris,1924,Equestrian,Jumping,"STUBER, Werner",SUI,Men,team,X,Silver
+Paris,1924,Fencing,Fencing,"HELLSTEN, Nils Erik",SWE,Men,épée individual,M,Bronze
+Paris,1924,Fencing,Fencing,"DELPORTE, Charles",BEL,Men,épée individual,M,Gold
+Paris,1924,Fencing,Fencing,"DUCRET, Roger François",FRA,Men,épée individual,M,Silver
+Paris,1924,Fencing,Fencing,"BASLETTA, Giulio",ITA,Men,épée team,M,Bronze
+Paris,1924,Fencing,Fencing,"BERTINETTI, Marcello",ITA,Men,épée team,M,Bronze
+Paris,1924,Fencing,Fencing,"CANOVA, Giovanni",ITA,Men,épée team,M,Bronze
+Paris,1924,Fencing,Fencing,"CUCCIA, Vincenzo",ITA,Men,épée team,M,Bronze
+Paris,1924,Fencing,Fencing,"MONTEGAZZA, V.",ITA,Men,épée team,M,Bronze
+Paris,1924,Fencing,Fencing,"MORICCA, Oreste",ITA,Men,épée team,M,Bronze
+Paris,1924,Fencing,Fencing,"BUCHARD, Georges",FRA,Men,épée team,M,Gold
+Paris,1924,Fencing,Fencing,"DUCRET, Roger François",FRA,Men,épée team,M,Gold
+Paris,1924,Fencing,Fencing,"GAUDIN, Lucien",FRA,Men,épée team,M,Gold
+Paris,1924,Fencing,Fencing,"LABATTUT, André",FRA,Men,épée team,M,Gold
+Paris,1924,Fencing,Fencing,"LIOTTEL, Lionel",FRA,Men,épée team,M,Gold
+Paris,1924,Fencing,Fencing,"LIPPMANN, Alexandre",FRA,Men,épée team,M,Gold
+Paris,1924,Fencing,Fencing,"TAINTURIER, Georges",FRA,Men,épée team,M,Gold
+Paris,1924,Fencing,Fencing,"ANSPACH, Paul",BEL,Men,épée team,M,Silver
+Paris,1924,Fencing,Fencing,"DE CRAECKER, Joseph",BEL,Men,épée team,M,Silver
+Paris,1924,Fencing,Fencing,"DE MONTIGNY, Fernand",BEL,Men,épée team,M,Silver
+Paris,1924,Fencing,Fencing,"DELPORTE, Charles",BEL,Men,épée team,M,Silver
+Paris,1924,Fencing,Fencing,"GEVERS, Ernest",BEL,Men,épée team,M,Silver
+Paris,1924,Fencing,Fencing,"TOM, Léon",BEL,Men,épée team,M,Silver
+Paris,1924,Fencing,Fencing,"VAN DAMME, Maurice E.",BEL,Men,foil individual,M,Bronze
+Paris,1924,Fencing,Fencing,"DUCRET, Roger François",FRA,Men,foil individual,M,Gold
+Paris,1924,Fencing,Fencing,"CATTIAU, Philippe",FRA,Men,foil individual,M,Silver
+Paris,1924,Fencing,Fencing,"HECKSCHER, Grete",DEN,Women,foil individual,W,Bronze
+Paris,1924,Fencing,Fencing,"OSIIER, Ellen Ottilia",DEN,Women,foil individual,W,Gold
+Paris,1924,Fencing,Fencing,"DAVIS, Gladis Muriel",GBR,Women,foil individual,W,Silver
+Paris,1924,Fencing,Fencing,"BERTI, Laszlo",HUN,Men,foil team,M,Bronze
+Paris,1924,Fencing,Fencing,"LICHTENECKERT, Istvan",HUN,Men,foil team,M,Bronze
+Paris,1924,Fencing,Fencing,"POSTA, Sandor",HUN,Men,foil team,M,Bronze
+Paris,1924,Fencing,Fencing,"SCHENKER, Zoltan",HUN,Men,foil team,M,Bronze
+Paris,1924,Fencing,Fencing,"TERSZTYANSZKY, Ödön",HUN,Men,foil team,M,Bronze
+Paris,1924,Fencing,Fencing,"CATTIAU, Philippe",FRA,Men,foil team,M,Gold
+Paris,1924,Fencing,Fencing,"COUTROT, Jacques",FRA,Men,foil team,M,Gold
+Paris,1924,Fencing,Fencing,"DE LUGET, Guy",FRA,Men,foil team,M,Gold
+Paris,1924,Fencing,Fencing,"DUCRET, Roger François",FRA,Men,foil team,M,Gold
+Paris,1924,Fencing,Fencing,"GAUDIN, Lucien",FRA,Men,foil team,M,Gold
+Paris,1924,Fencing,Fencing,"JOBIER, Henri",FRA,Men,foil team,M,Gold
+Paris,1924,Fencing,Fencing,"LABATTUT, André",FRA,Men,foil team,M,Gold
+Paris,1924,Fencing,Fencing,"PEROTEAUX, Josef",FRA,Men,foil team,M,Gold
+Paris,1924,Fencing,Fencing,"BERRE, Marcel L.",BEL,Men,foil team,M,Silver
+Paris,1924,Fencing,Fencing,"BEURAIN, Désiré",BEL,Men,foil team,M,Silver
+Paris,1924,Fencing,Fencing,"CRAHAY, Charles",BEL,Men,foil team,M,Silver
+Paris,1924,Fencing,Fencing,"DE MONTIGNY, Fernand",BEL,Men,foil team,M,Silver
+Paris,1924,Fencing,Fencing,"DE ROOCKER, Albert",BEL,Men,foil team,M,Silver
+Paris,1924,Fencing,Fencing,"VAN DAMME, Maurice E.",BEL,Men,foil team,M,Silver
+Paris,1924,Fencing,Fencing,"GARAY, Janos",HUN,Men,sabre individual,M,Bronze
+Paris,1924,Fencing,Fencing,"POSTA, Sandor",HUN,Men,sabre individual,M,Gold
+Paris,1924,Fencing,Fencing,"DUCRET, Roger François",FRA,Men,sabre individual,M,Silver
+Paris,1924,Fencing,Fencing,"DE JONG, Adrianus Egbertus Willem",NED,Men,sabre team,M,Bronze
+Paris,1924,Fencing,Fencing,"DOORMAN, Jetze",NED,Men,sabre team,M,Bronze
+Paris,1924,Fencing,Fencing,"SCHERPENHUYZEN, Hendrik Dorotheus",NED,Men,sabre team,M,Bronze
+Paris,1924,Fencing,Fencing,"VAN DER WIEL, Jan",NED,Men,sabre team,M,Bronze
+Paris,1924,Fencing,Fencing,"VAN DULM, Maarten Hendrik",NED,Men,sabre team,M,Bronze
+Paris,1924,Fencing,Fencing,"WYNOLDY-DANIELS, Henri Jacob",NED,Men,sabre team,M,Bronze
+Paris,1924,Fencing,Fencing,"ANSELMI, Renato",ITA,Men,sabre team,M,Gold
+Paris,1924,Fencing,Fencing,"BALZARINI, Guido",ITA,Men,sabre team,M,Gold
+Paris,1924,Fencing,Fencing,"BERTINETTI, Marcello",ITA,Men,sabre team,M,Gold
+Paris,1924,Fencing,Fencing,"BINI, Bino",ITA,Men,sabre team,M,Gold
+Paris,1924,Fencing,Fencing,"CUCCIA, Vincenzo",ITA,Men,sabre team,M,Gold
+Paris,1924,Fencing,Fencing,"MORICCA, Oreste",ITA,Men,sabre team,M,Gold
+Paris,1924,Fencing,Fencing,"PULITI, Oreste",ITA,Men,sabre team,M,Gold
+Paris,1924,Fencing,Fencing,"SARROCCHI, Giulio",ITA,Men,sabre team,M,Gold
+Paris,1924,Fencing,Fencing,"BERTI, Laszlo",HUN,Men,sabre team,M,Silver
+Paris,1924,Fencing,Fencing,"GARAY, Janos",HUN,Men,sabre team,M,Silver
+Paris,1924,Fencing,Fencing,"POSTA, Sandor",HUN,Men,sabre team,M,Silver
+Paris,1924,Fencing,Fencing,"RADY, Jozsef",HUN,Men,sabre team,M,Silver
+Paris,1924,Fencing,Fencing,"SCHENKER, Zoltan",HUN,Men,sabre team,M,Silver
+Paris,1924,Fencing,Fencing,"SZECHY, Laszlo",HUN,Men,sabre team,M,Silver
+Paris,1924,Fencing,Fencing,"TERSZTYANSZKY, Ödön",HUN,Men,sabre team,M,Silver
+Paris,1924,Fencing,Fencing,"UHLYARIK, Jenö",HUN,Men,sabre team,M,Silver
+Paris,1924,Football,Football,"ALFREDSSON, Axel",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"BROMMESSON, Charles",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"CARLSON, Gustaf",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"DAHL, Albin",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"FRIBERG, Sven",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"GUSTAFSSON, Karl",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"HILLEN, Fritjof",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"HIRSCH, Konrad",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"HOLMBERG, Gunnar",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"KAUFELDT, Per",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"KELLER, Tore",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"KOCK, Rudolf",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"LINDBERG, Sigfrid",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"LINDBERG, V.",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"LINDQVIST, Sven",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"LUNDQUIST, Evert",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"MELLGREN, Sten",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"OCLSSON, G.",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"RYDELL, Sven",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"SUNDBERG, Harry",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"SVENSSON, Thorsten",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"ZANDER, Robert",SWE,Men,football,M,Bronze
+Paris,1924,Football,Football,"ANDRADE, José",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"ARISPE, Pedro",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"CASELLA, P.",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"CEA, Pedro",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"CHIAPPARA, L.",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"ETCHEGOYEN, P.",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"GHIERRA, Alfredo",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"MAZALI, AndrÃ©s",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"NASAZZI, José",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"NAYA, José",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"PETRONE, Pedro",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"ROMANO, Angel",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"SALDOMBIDE, Z.",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"SCARONE, Hector",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"SOMMA, P.",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"TOMASINA, Alberto",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"URDINARAN, Antonio",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"URDINARAN, Santos",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"URIARTE, F.",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"VIDAL, José",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"ZIBECHI, Alfredo J.",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"ZINGONE, P.",URU,Men,football,M,Gold
+Paris,1924,Football,Football,"ABEGGLEN, Max",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"BEDOURET, Félix",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"BOUVIER, C.",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"DIETRICH, Walter",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"EHRENBOLGER, Karl",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"FÄSSLER, Paul",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"GOTTENKIENY, G.",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"HAAG, J.",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"KATZ, M.",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"KRAMER, Edmond",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"MENGOTTI, Adolphe",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"OBERHAUSER, August",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"PACHE, Robert",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"POLLITZ, Aron",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"PULVER, Hans",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"RAMSEYER, Rudolf",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"REYMOND, Adolphe",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"RICHARD, L.",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"SCHAR, T.",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"SCHMIEDLIN, Paul",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"STURZENEGGER, Paul",SUI,Men,football,M,Silver
+Paris,1924,Football,Football,"WEILER, Walter",SUI,Men,football,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"HIGELIN, André",FRA,Men,horizontal bar,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"STUKELJ, Leon",YUG,Men,horizontal bar,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"GUTWENINGER, Jean",SUI,Men,horizontal bar,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"SUPCIK, Bedrich",TCH,Men,individual all-round,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"STUKELJ, Leon",YUG,Men,individual all-round,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"PRAZAK, Robert",TCH,Men,individual all-round,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"ZAMPORI, Giorgio",ITA,Men,parallel bars,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"GÜTTINGER, August",SUI,Men,parallel bars,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"PRAZAK, Robert",TCH,Men,parallel bars,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"REBETEZ, Antoine",SUI,Men,pommel horse,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"WILHELM, Josef",SUI,Men,pommel horse,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"GUTWENINGER, Jean",SUI,Men,pommel horse,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"VACHA, Ladislav",TCH,Men,rings,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"MARTINO, Francesco",ITA,Men,rings,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"PRAZAK, Robert",TCH,Men,rings,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"GÜTTINGER, August",SUI,Men,rope climbing,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"VACHA, Ladislav",TCH,Men,rope climbing,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"SUPCIK, Bedrich",TCH,Men,rope climbing,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"SEGUIN, Albert",FRA,Men,rope climbing,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"SEGUIN, Albert",FRA,Men,Sidehorse vault,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"GANGLOFF, François",FRA,Men,Sidehorse vault,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"GOUNOT, Jean",FRA,Men,Sidehorse vault,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"GRIEDER, Hans",SUI,Men,team competition,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"GÜTTINGER, August",SUI,Men,team competition,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"GUTWENINGER, Jean",SUI,Men,team competition,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"MIEZ, Georges",SUI,Men,team competition,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"PFISTER, Otto",SUI,Men,team competition,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"REBETEZ, Antoine",SUI,Men,team competition,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"WIDMER, Karl",SUI,Men,team competition,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"WILHELM, Josef",SUI,Men,team competition,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"CAMBIASO, Luigi",ITA,Men,team competition,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"LERTORA, Mario",ITA,Men,team competition,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"LUCCHETTI, Vittorio",ITA,Men,team competition,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"MAIOCCO, Luigi",ITA,Men,team competition,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"MANDRINI, Ferdinando",ITA,Men,team competition,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"MARTINO, Francesco",ITA,Men,team competition,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"PARIS, Giuseppe",ITA,Men,team competition,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"ZAMPORI, Giorgio",ITA,Men,team competition,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"CORDONNIER, Eugène",FRA,Men,team competition,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"DELSARTE, Léon",FRA,Men,team competition,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"GANGLOFF, François",FRA,Men,team competition,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"GOUNOT, Jean",FRA,Men,team competition,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"HERMANN, Arthur",FRA,Men,team competition,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"HIGELIN, André",FRA,Men,team competition,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"HUBER, Joseph",FRA,Men,team competition,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"SEGUIN, Albert",FRA,Men,team competition,M,Silver
+Paris,1924,Gymnastics,Artistic G.,"MORKOVSKY, Bohumil",TCH,Men,vault,M,Bronze
+Paris,1924,Gymnastics,Artistic G.,"KRIZ, Frank",USA,Men,vault,M,Gold
+Paris,1924,Gymnastics,Artistic G.,"KOUTNY, Jan",TCH,Men,vault,M,Silver
+Paris,1924,Modern Pentathlon,Modern Pentath.,"UGGLA, Bertil",SWE,Men,Individual competition,M,Bronze
+Paris,1924,Modern Pentathlon,Modern Pentath.,"LINDMAN, Bo S. G.",SWE,Men,Individual competition,M,Gold
+Paris,1924,Modern Pentathlon,Modern Pentath.,"DYRSSEN, Gustaf",SWE,Men,Individual competition,M,Silver
+Paris,1924,Polo,Polo,"BARRETT, Frederick Whitfield",GBR,Men,polo,M,Bronze
+Paris,1924,Polo,Polo,"BINGHAM, Dennis",GBR,Men,polo,M,Bronze
+Paris,1924,Polo,Polo,"GUEST, Fred",GBR,Men,polo,M,Bronze
+Paris,1924,Polo,Polo,"LANNOWE, M.",GBR,Men,polo,M,Bronze
+Paris,1924,Polo,Polo,"WISE, Kinnear",GBR,Men,polo,M,Bronze
+Paris,1924,Polo,Polo,"KENNY, Arturo",ARG,Men,polo,M,Gold
+Paris,1924,Polo,Polo,"MILES, Juan",ARG,Men,polo,M,Gold
+Paris,1924,Polo,Polo,"NAYLOR, Guillermo",ARG,Men,polo,M,Gold
+Paris,1924,Polo,Polo,"NELSON, Juan",ARG,Men,polo,M,Gold
+Paris,1924,Polo,Polo,"PADILLA, Enrique",ARG,Men,polo,M,Gold
+Paris,1924,Polo,Polo,"PENA, A.",ARG,Men,polo,M,Gold
+Paris,1924,Polo,Polo,"BOESCKE, Elmer",USA,Men,polo,M,Silver
+Paris,1924,Polo,Polo,"HITCHCOCK, Thomas",USA,Men,polo,M,Silver
+Paris,1924,Polo,Polo,"MOORE, G.",USA,Men,polo,M,Silver
+Paris,1924,Polo,Polo,"ROE, Frederick",USA,Men,polo,M,Silver
+Paris,1924,Polo,Polo,"WANAMAKER, Rodman",USA,Men,polo,M,Silver
+Paris,1924,Rowing,Rowing,"BEIJNEN, Antonie Christiaan",NED,Men,coxless pair (2-),M,Gold
+Paris,1924,Rowing,Rowing,"RÖSINGH, Wilhelm",NED,Men,coxless pair (2-),M,Gold
+Paris,1924,Rowing,Rowing,"BOUTON, Maurice",FRA,Men,coxless pair (2-),M,Silver
+Paris,1924,Rowing,Rowing,"PIOT, Georges",FRA,Men,coxless pair (2-),M,Silver
+Paris,1924,Rowing,Rowing,"BOSSHARD, Rudolf",SUI,Men,double sculls (2x),M,Bronze
+Paris,1924,Rowing,Rowing,"THOMA, Heinrich",SUI,Men,double sculls (2x),M,Bronze
+Paris,1924,Rowing,Rowing,"COSTELLO, Paul Vincent",USA,Men,double sculls (2x),M,Gold
+Paris,1924,Rowing,Rowing,"KELLY, John Brendan",USA,Men,double sculls (2x),M,Gold
+Paris,1924,Rowing,Rowing,"DETTON, Marc P.",FRA,Men,double sculls (2x),M,Silver
+Paris,1924,Rowing,Rowing,"STOCK, Jean-Pierre",FRA,Men,double sculls (2x),M,Silver
+Paris,1924,Rowing,Rowing,"CATTALINICH, Antonio",ITA,Men,eight with coxswain (8+),M,Bronze
+Paris,1924,Rowing,Rowing,"CATTALINICH, Francesco",ITA,Men,eight with coxswain (8+),M,Bronze
+Paris,1924,Rowing,Rowing,"CATTALINICH, Simeone",ITA,Men,eight with coxswain (8+),M,Bronze
+Paris,1924,Rowing,Rowing,"CRIVELLI, Giuseppe",ITA,Men,eight with coxswain (8+),M,Bronze
+Paris,1924,Rowing,Rowing,"GALLASSO, Latino",ITA,Men,eight with coxswain (8+),M,Bronze
+Paris,1924,Rowing,Rowing,"GLIUBICH, Vittorio",ITA,Men,eight with coxswain (8+),M,Bronze
+Paris,1924,Rowing,Rowing,"IVANOV, Pietro",ITA,Men,eight with coxswain (8+),M,Bronze
+Paris,1924,Rowing,Rowing,"SORICH, Bruno",ITA,Men,eight with coxswain (8+),M,Bronze
+Paris,1924,Rowing,Rowing,"TONIATTI, Carlo",ITA,Men,eight with coxswain (8+),M,Bronze
+Paris,1924,Rowing,Rowing,"CARPENTIER, Leonard",USA,Men,eight with coxswain (8+),M,Gold
+Paris,1924,Rowing,Rowing,"KINGSBURY, Howard",USA,Men,eight with coxswain (8+),M,Gold
+Paris,1924,Rowing,Rowing,"LINDLEY, Allen",USA,Men,eight with coxswain (8+),M,Gold
+Paris,1924,Rowing,Rowing,"MILLER, John",USA,Men,eight with coxswain (8+),M,Gold
+Paris,1924,Rowing,Rowing,"ROCKEFELLER, James",USA,Men,eight with coxswain (8+),M,Gold
+Paris,1924,Rowing,Rowing,"SHEFFIELD, Frederick",USA,Men,eight with coxswain (8+),M,Gold
+Paris,1924,Rowing,Rowing,"SPOCK, Benjamin",USA,Men,eight with coxswain (8+),M,Gold
+Paris,1924,Rowing,Rowing,"STODDARD, Laurence",USA,Men,eight with coxswain (8+),M,Gold
+Paris,1924,Rowing,Rowing,"WILSON, Alfred",USA,Men,eight with coxswain (8+),M,Gold
+Paris,1924,Rowing,Rowing,"BELL, Arthur",CAN,Men,eight with coxswain (8+),M,Silver
+Paris,1924,Rowing,Rowing,"CAMPBELL, Ivor",CAN,Men,eight with coxswain (8+),M,Silver
+Paris,1924,Rowing,Rowing,"HUNTER, Robert",CAN,Men,eight with coxswain (8+),M,Silver
+Paris,1924,Rowing,Rowing,"LANGFORD, William",CAN,Men,eight with coxswain (8+),M,Silver
+Paris,1924,Rowing,Rowing,"LITTLE, Harold",CAN,Men,eight with coxswain (8+),M,Silver
+Paris,1924,Rowing,Rowing,"SMITH, John",CAN,Men,eight with coxswain (8+),M,Silver
+Paris,1924,Rowing,Rowing,"SNYDER, Warren",CAN,Men,eight with coxswain (8+),M,Silver
+Paris,1924,Rowing,Rowing,"TAYLOR, Norman",CAN,Men,eight with coxswain (8+),M,Silver
+Paris,1924,Rowing,Rowing,"WALLACE, William",CAN,Men,eight with coxswain (8+),M,Silver
+Paris,1924,Rowing,Rowing,"ALBRECHT, Emile",SUI,Men,four without coxswain (4-),M,Bronze
+Paris,1924,Rowing,Rowing,"PROBST, Alfred",SUI,Men,four without coxswain (4-),M,Bronze
+Paris,1924,Rowing,Rowing,"SIGG, Eugen",SUI,Men,four without coxswain (4-),M,Bronze
+Paris,1924,Rowing,Rowing,"WALTER, Hans",SUI,Men,four without coxswain (4-),M,Bronze
+Paris,1924,Rowing,Rowing,"ELEY, Charles",GBR,Men,four without coxswain (4-),M,Gold
+Paris,1924,Rowing,Rowing,"MACNABB, James",GBR,Men,four without coxswain (4-),M,Gold
+Paris,1924,Rowing,Rowing,"MORRISON, Robert",GBR,Men,four without coxswain (4-),M,Gold
+Paris,1924,Rowing,Rowing,"SANDERS, Terence",GBR,Men,four without coxswain (4-),M,Gold
+Paris,1924,Rowing,Rowing,"BLACK, Archibald",CAN,Men,four without coxswain (4-),M,Silver
+Paris,1924,Rowing,Rowing,"MACKAY, George",CAN,Men,four without coxswain (4-),M,Silver
+Paris,1924,Rowing,Rowing,"MARIACHER, A.",CAN,Men,four without coxswain (4-),M,Silver
+Paris,1924,Rowing,Rowing,"WOOD, William",CAN,Men,four without coxswain (4-),M,Silver
+Paris,1924,Rowing,Rowing,"GERHARDT, Robert",USA,Men,four-oared shell with coxswain (4-),M,Bronze
+Paris,1924,Rowing,Rowing,"JELINEK, Sidney",USA,Men,four-oared shell with coxswain (4-),M,Bronze
+Paris,1924,Rowing,Rowing,"KENNEDY, John",USA,Men,four-oared shell with coxswain (4-),M,Bronze
+Paris,1924,Rowing,Rowing,"MITCHELL, Edward",USA,Men,four-oared shell with coxswain (4-),M,Bronze
+Paris,1924,Rowing,Rowing,"WELSFORD, Henry",USA,Men,four-oared shell with coxswain (4-),M,Bronze
+Paris,1924,Rowing,Rowing,"ALBRECHT, Emile",SUI,Men,four-oared shell with coxswain (4-),M,Gold
+Paris,1924,Rowing,Rowing,"LOSSLI, Walter",SUI,Men,four-oared shell with coxswain (4-),M,Gold
+Paris,1924,Rowing,Rowing,"PROBST, Alfred",SUI,Men,four-oared shell with coxswain (4-),M,Gold
+Paris,1924,Rowing,Rowing,"SIGG, Eugen",SUI,Men,four-oared shell with coxswain (4-),M,Gold
+Paris,1924,Rowing,Rowing,"WALTHER, Hans",SUI,Men,four-oared shell with coxswain (4-),M,Gold
+Paris,1924,Rowing,Rowing,"BARBEROLLE, Ernest",FRA,Men,four-oared shell with coxswain (4-),M,Silver
+Paris,1924,Rowing,Rowing,"CONSTANT, Eugène",FRA,Men,four-oared shell with coxswain (4-),M,Silver
+Paris,1924,Rowing,Rowing,"GRESSIER, Louis A.",FRA,Men,four-oared shell with coxswain (4-),M,Silver
+Paris,1924,Rowing,Rowing,"LECOINTE, Georges",FRA,Men,four-oared shell with coxswain (4-),M,Silver
+Paris,1924,Rowing,Rowing,"TALLEUX, Raymond",FRA,Men,four-oared shell with coxswain (4-),M,Silver
+Paris,1924,Rowing,Rowing,"BUTLER, Leon",USA,Men,pair-oared shell with coxswain (2+),M,Bronze
+Paris,1924,Rowing,Rowing,"JENNINGS, Edward Francis",USA,Men,pair-oared shell with coxswain (2+),M,Bronze
+Paris,1924,Rowing,Rowing,"WILSON, Harold",USA,Men,pair-oared shell with coxswain (2+),M,Bronze
+Paris,1924,Rowing,Rowing,"CANDEVEAU, Edouard",SUI,Men,pair-oared shell with coxswain (2+),M,Gold
+Paris,1924,Rowing,Rowing,"FELBER, Alfred",SUI,Men,pair-oared shell with coxswain (2+),M,Gold
+Paris,1924,Rowing,Rowing,"LACHAPELLE, Emil",SUI,Men,pair-oared shell with coxswain (2+),M,Gold
+Paris,1924,Rowing,Rowing,"OLGENI, Ercole",ITA,Men,pair-oared shell with coxswain (2+),M,Silver
+Paris,1924,Rowing,Rowing,"SCATTURIN, Giovanni",ITA,Men,pair-oared shell with coxswain (2+),M,Silver
+Paris,1924,Rowing,Rowing,"SOPRACORDEVOLE, Gino",ITA,Men,pair-oared shell with coxswain (2+),M,Silver
+Paris,1924,Rowing,Rowing,"SCHNEIDER, Josef",SUI,Men,single sculls (1x),M,Bronze
+Paris,1924,Rowing,Rowing,"BERESFORD, Jack",GBR,Men,single sculls (1x),M,Gold
+Paris,1924,Rowing,Rowing,"GILMORE, Williams  E.Garrett",USA,Men,single sculls (1x),M,Silver
+Paris,1924,Rugby,Rugby,"ANASTASIADE, N.",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"ARMASEL, Dumitru",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"BENTIA, Gheorghe",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"COCIOCIAHO, J.",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"CRATUNESCO, C.",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"FLORIAN, Theodor",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"GARLESTEANO, J.",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"GHITZULESCO, P.",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"LOUKIDY, O.",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"MANO, H.",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"MARASCO, Nicolae",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"MARIAN, Theodor",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"MICHAILESCO, Sorin",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"NEDELCOVICI, Paul",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"NEMESCH, Iosif",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"SFETESCU, Eugen",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"SFETESCU, Mircea",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"STERIAN, Soare",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"STROESCO, M.",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"TANASESCU, Atanasie",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"VARDALA, Mihail",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"VIDRASHCU, Paul",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"VOLVOREANU, Dumitru",ROU,Men,rugby,M,Bronze
+Paris,1924,Rugby,Rugby,"AUSTIN, C.",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"BROWN, R.",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"CASHEL, J.",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"CLARK, P.",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"CLEAVELAND, Norman",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"CUNNINGHAM, H.",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"DE GROOT, Dudley",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"DEVEREAUX, Robert",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"DIXON, Georges",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"DOE, Charles Webster",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"FARRISH, Linn Markley",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"GRAFF, Edward",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"GRONDONA, C.",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"HUNTER, Joseph Garvin",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"HYLAND, Richard Frank",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"MANELLI, Caesar",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"MEHAN, Charles Thomas",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"MULDOON, William",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"O'NEIL, John T.",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"PATRICK, John Clarence",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"ROGERS, William Lister",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"SCHOLZ, Rudolph John",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"SLATER, Colby Edward",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"SLATER, Norman Bernard",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"TILDEN, Charles Lee",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"TURKINGTON, Edward L.",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"VALENTINE, Alan Chester",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"WILLIAMS, Alan Frank",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"WINSTON, J.",USA,Men,rugby,M,Gold
+Paris,1924,Rugby,Rugby,"ABRAHAM, F.",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"ARAOU, René",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"BAYARD, Jean",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"BEGUET, Louis",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"BEHOTEGUY, André",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"BESSON, M.",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"BIOUSSA, Alexandre",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"BONNES, Etienne",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"BORDE, François",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"BOUSQUET, Adolphe René",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"CASSAYET, Aimé",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"CAYROL, F.",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"CLAUZEL, F.",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"DUPONT, Clément",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"DUPOUY, Albert",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"ETCHEBERRY, Jean",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"FRAYSSINET, E.",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"GALAU, Henri",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"GERENTES, Gilbert",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"GONNET, C.",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"GOT, Raoul",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"JAUREGUY, Adolphe",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"LASSERRE, René",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"LEPATEY, L.",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"LUBIN-LEBRÈRE, Marcel-Frédéric",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"MONTADE, C.",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"PIQUIRAL, Etienne",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"PITEU, R.",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"RIBERE, E.",FRA,Men,rugby,M,Silver
+Paris,1924,Rugby,Rugby,"VAYSSE, Jean",FRA,Men,rugby,M,Silver
+Paris,1924,Sailing,Sailing,"CARP, Johan Robbert",NED,Men,6m,X,Bronze
+Paris,1924,Sailing,Sailing,"GUEPIN, Antonij Johannes",NED,Men,6m,X,Bronze
+Paris,1924,Sailing,Sailing,"VREEDE, Jan Anthony",NED,Men,6m,X,Bronze
+Paris,1924,Sailing,Sailing,"DAHL, Christopher Johan",NOR,Men,6m,X,Gold
+Paris,1924,Sailing,Sailing,"LUNDE, Eugen Peder",NOR,Men,6m,X,Gold
+Paris,1924,Sailing,Sailing,"LUNDGREN, Anders",NOR,Men,6m,X,Gold
+Paris,1924,Sailing,Sailing,"DEGN, Knud Oluf",DEN,Men,6m,X,Silver
+Paris,1924,Sailing,Sailing,"NIELSEN, Christian Sören",DEN,Men,6m,X,Silver
+Paris,1924,Sailing,Sailing,"VETT, Vilhelm",DEN,Men,6m,X,Silver
+Paris,1924,Sailing,Sailing,"BREGUET, Louis",FRA,Men,8m,X,Bronze
+Paris,1924,Sailing,Sailing,"GANTHIER, P.",FRA,Men,8m,X,Bronze
+Paris,1924,Sailing,Sailing,"GIRARDET, R.",FRA,Men,8m,X,Bronze
+Paris,1924,Sailing,Sailing,"GUERRIER, A.",FRA,Men,8m,X,Bronze
+Paris,1924,Sailing,Sailing,"MOLLARD, Georges",FRA,Men,8m,X,Bronze
+Paris,1924,Sailing,Sailing,"BOCKELIE, Rick Marlow",NOR,Men,8m,X,Gold
+Paris,1924,Sailing,Sailing,"HAGEN, Harald",NOR,Men,8m,X,Gold
+Paris,1924,Sailing,Sailing,"NIELSEN, Ingar",NOR,Men,8m,X,Gold
+Paris,1924,Sailing,Sailing,"RINGVOLD, Carl August",NOR,Men,8m,X,Gold
+Paris,1924,Sailing,Sailing,"RINGVOLD, Carl August Jr.",NOR,Men,8m,X,Gold
+Paris,1924,Sailing,Sailing,"JACOB, Edwin Ellis",GBR,Men,8m,X,Silver
+Paris,1924,Sailing,Sailing,"RIGGS, Thomas Cooper",GBR,Men,8m,X,Silver
+Paris,1924,Sailing,Sailing,"RIGGS, Walter",GBR,Men,8m,X,Silver
+Paris,1924,Sailing,Sailing,"RONEY, Ernest John",GBR,Men,8m,X,Silver
+Paris,1924,Sailing,Sailing,"DITTMAR, Hans Erik",FIN,Men,olympic class monotype,X,Bronze
+Paris,1924,Sailing,Sailing,"HUYBRECHTS, Léon",BEL,Men,olympic class monotype,X,Gold
+Paris,1924,Sailing,Sailing,"ROBERT, Henrik",NOR,Men,olympic class monotype,X,Silver
+Paris,1924,Shooting,Shooting,"SWAHN, Alfred",SWE,Men,"100m running deer, double shots",M,Bronze
+Paris,1924,Shooting,Shooting,"LILLOE-OLSEN, Ole Andreas",NOR,Men,"100m running deer, double shots",M,Gold
+Paris,1924,Shooting,Shooting,"MACKWORTH-PRAED, Cyril Winthrop",GBR,Men,"100m running deer, double shots",M,Silver
+Paris,1924,Shooting,Shooting,"BENEDICKS, Edward",SWE,Men,"100m running deer, double shots, team",M,Bronze
+Paris,1924,Shooting,Shooting,"EKBLOM, Axel W.",SWE,Men,"100m running deer, double shots, team",M,Bronze
+Paris,1924,Shooting,Shooting,"JOHANSSON, G. Mauritz",SWE,Men,"100m running deer, double shots, team",M,Bronze
+Paris,1924,Shooting,Shooting,"LANDELIUS, P. Fredric",SWE,Men,"100m running deer, double shots, team",M,Bronze
+Paris,1924,Shooting,Shooting,"SVENSSON, Karl-Gustaf E.",SWE,Men,"100m running deer, double shots, team",M,Bronze
+Paris,1924,Shooting,Shooting,"SWAHN, Alfred",SWE,Men,"100m running deer, double shots, team",M,Bronze
+Paris,1924,Shooting,Shooting,"FAUNTHORPE, John Champion",GBR,Men,"100m running deer, double shots, team",M,Gold
+Paris,1924,Shooting,Shooting,"MACKWORTH-PRAED, Cyril Winthrop",GBR,Men,"100m running deer, double shots, team",M,Gold
+Paris,1924,Shooting,Shooting,"NEAME, Philip",GBR,Men,"100m running deer, double shots, team",M,Gold
+Paris,1924,Shooting,Shooting,"O'LEARY, John J.",GBR,Men,"100m running deer, double shots, team",M,Gold
+Paris,1924,Shooting,Shooting,"PERRY, Herbert Spencer",GBR,Men,"100m running deer, double shots, team",M,Gold
+Paris,1924,Shooting,Shooting,"WHITTY, Allen",GBR,Men,"100m running deer, double shots, team",M,Gold
+Paris,1924,Shooting,Shooting,"LIBERG, Einar",NOR,Men,"100m running deer, double shots, team",M,Silver
+Paris,1924,Shooting,Shooting,"LILLOE-OLSEN, Ole Andreas",NOR,Men,"100m running deer, double shots, team",M,Silver
+Paris,1924,Shooting,Shooting,"NATVIG, Harald",NOR,Men,"100m running deer, double shots, team",M,Silver
+Paris,1924,Shooting,Shooting,"NORDVIK, Hans",NOR,Men,"100m running deer, double shots, team",M,Silver
+Paris,1924,Shooting,Shooting,"OLSEN, Otto M.",NOR,Men,"100m running deer, double shots, team",M,Silver
+Paris,1924,Shooting,Shooting,"WESMANN-KJAER, Oluf",NOR,Men,"100m running deer, double shots, team",M,Silver
+Paris,1924,Shooting,Shooting,"OLSEN, Otto M.",NOR,Men,"100m running deer, single shots",M,Bronze
+Paris,1924,Shooting,Shooting,"BOLES, John Keith",USA,Men,"100m running deer, single shots",M,Gold
+Paris,1924,Shooting,Shooting,"MACKWORTH-PRAED, Cyril Winthrop",GBR,Men,"100m running deer, single shots",M,Silver
+Paris,1924,Shooting,Shooting,"BOLES, John Keith",USA,Men,"100m running deer, single shots, team",M,Bronze
+Paris,1924,Shooting,Shooting,"COULTER, Raymond Orville",USA,Men,"100m running deer, single shots, team",M,Bronze
+Paris,1924,Shooting,Shooting,"FENTON, Dennis",USA,Men,"100m running deer, single shots, team",M,Bronze
+Paris,1924,Shooting,Shooting,"STOKES, Walter Raymond",USA,Men,"100m running deer, single shots, team",M,Bronze
+Paris,1924,Shooting,Shooting,"LIBERG, Einar",NOR,Men,"100m running deer, single shots, team",M,Gold
+Paris,1924,Shooting,Shooting,"LILLOE-OLSEN, Ole Andreas",NOR,Men,"100m running deer, single shots, team",M,Gold
+Paris,1924,Shooting,Shooting,"NATVIG, Harald",NOR,Men,"100m running deer, single shots, team",M,Gold
+Paris,1924,Shooting,Shooting,"NORDVIK, Hans",NOR,Men,"100m running deer, single shots, team",M,Gold
+Paris,1924,Shooting,Shooting,"OLSEN, Otto M.",NOR,Men,"100m running deer, single shots, team",M,Gold
+Paris,1924,Shooting,Shooting,"WESMANN-KJAER, Oluf",NOR,Men,"100m running deer, single shots, team",M,Gold
+Paris,1924,Shooting,Shooting,"HULTBERG, Otto F.",SWE,Men,"100m running deer, single shots, team",M,Silver
+Paris,1924,Shooting,Shooting,"JOHANSSON, G. Mauritz",SWE,Men,"100m running deer, single shots, team",M,Silver
+Paris,1924,Shooting,Shooting,"LANDELIUS, P. Fredric",SWE,Men,"100m running deer, single shots, team",M,Silver
+Paris,1924,Shooting,Shooting,"RICHTER, Karl G. B.",SWE,Men,"100m running deer, single shots, team",M,Silver
+Paris,1924,Shooting,Shooting,"SVENSSON, Karl-Gustaf E.",SWE,Men,"100m running deer, single shots, team",M,Silver
+Paris,1924,Shooting,Shooting,"SWAHN, Alfred",SWE,Men,"100m running deer, single shots, team",M,Silver
+Paris,1924,Shooting,Shooting,"HANNELIUS, Lennart Wilhelm",FIN,Men,25m rapid fire pistol (60 shots),M,Bronze
+Paris,1924,Shooting,Shooting,"BAILEY, Henry Marvin",USA,Men,25m rapid fire pistol (60 shots),M,Gold
+Paris,1924,Shooting,Shooting,"CARLBERG, G. Vilhelm",SWE,Men,25m rapid fire pistol (60 shots),M,Silver
+Paris,1924,Shooting,Shooting,"AUGUSTIN, Ludovic",HAI,Men,"400, 600, 800m free rifle, team",M,Bronze
+Paris,1924,Shooting,Shooting,"CLERMONT, L. H.",HAI,Men,"400, 600, 800m free rifle, team",M,Bronze
+Paris,1924,Shooting,Shooting,"DESTINE, Destin",HAI,Men,"400, 600, 800m free rifle, team",M,Bronze
+Paris,1924,Shooting,Shooting,"DUPRE, C.",HAI,Men,"400, 600, 800m free rifle, team",M,Bronze
+Paris,1924,Shooting,Shooting,"METULLUS, St Eloi",HAI,Men,"400, 600, 800m free rifle, team",M,Bronze
+Paris,1924,Shooting,Shooting,"ROLLAND, Astrel",HAI,Men,"400, 600, 800m free rifle, team",M,Bronze
+Paris,1924,Shooting,Shooting,"VALBORGE, Ludovic",HAI,Men,"400, 600, 800m free rifle, team",M,Bronze
+Paris,1924,Shooting,Shooting,"COULTER, Raymond Orville",USA,Men,"400, 600, 800m free rifle, team",M,Gold
+Paris,1924,Shooting,Shooting,"CROCKETT, Joseph W.",USA,Men,"400, 600, 800m free rifle, team",M,Gold
+Paris,1924,Shooting,Shooting,"FISHER, Morris",USA,Men,"400, 600, 800m free rifle, team",M,Gold
+Paris,1924,Shooting,Shooting,"HINDS, Sidney Rae",USA,Men,"400, 600, 800m free rifle, team",M,Gold
+Paris,1924,Shooting,Shooting,"STOKES, Walter Raymond",USA,Men,"400, 600, 800m free rifle, team",M,Gold
+Paris,1924,Shooting,Shooting,"COLAS, Paul René",FRA,Men,"400, 600, 800m free rifle, team",M,Silver
+Paris,1924,Shooting,Shooting,"COURQUIN, Albert",FRA,Men,"400, 600, 800m free rifle, team",M,Silver
+Paris,1924,Shooting,Shooting,"HARDY, Pierre",FRA,Men,"400, 600, 800m free rifle, team",M,Silver
+Paris,1924,Shooting,Shooting,"JOHNSON, Léon",FRA,Men,"400, 600, 800m free rifle, team",M,Silver
+Paris,1924,Shooting,Shooting,"PARMENTIER, André",FRA,Men,"400, 600, 800m free rifle, team",M,Silver
+Paris,1924,Shooting,Shooting,"ROES, Georges",FRA,Men,"400, 600, 800m free rifle, team",M,Silver
+Paris,1924,Shooting,Shooting,"HARTMANN, Josias",SUI,Men,50m rifle prone (60 shots),M,Bronze
+Paris,1924,Shooting,Shooting,"COQUELIN DE LISLE, Pierre",FRA,Men,50m rifle prone (60 shots),M,Gold
+Paris,1924,Shooting,Shooting,"DINWIDDIE, Marcus William",USA,Men,50m rifle prone (60 shots),M,Silver
+Paris,1924,Shooting,Shooting,"LARSEN, Niels Hansen Ditlev",DEN,Men,"600m free rifle, individual",M,Bronze
+Paris,1924,Shooting,Shooting,"FISHER, Morris",USA,Men,"600m free rifle, individual",M,Gold
+Paris,1924,Shooting,Shooting,"OSBURN, Carl Townsend",USA,Men,"600m free rifle, individual",M,Silver
+Paris,1924,Shooting,Shooting,"EKMAN, Werner R. N.",FIN,Men,"clay pigeons, team",M,Bronze
+Paris,1924,Shooting,Shooting,"HUBER, Konrad Walentin",FIN,Men,"clay pigeons, team",M,Bronze
+Paris,1924,Shooting,Shooting,"HUBER, Robert Valdemar",FIN,Men,"clay pigeons, team",M,Bronze
+Paris,1924,Shooting,Shooting,"NORDBLAD, Georg J. W.",FIN,Men,"clay pigeons, team",M,Bronze
+Paris,1924,Shooting,Shooting,"TIKKANEN, Robert",FIN,Men,"clay pigeons, team",M,Bronze
+Paris,1924,Shooting,Shooting,"WEGELIUS, Karl Magnus",FIN,Men,"clay pigeons, team",M,Bronze
+Paris,1924,Shooting,Shooting,"ETCHEN, Frederick R.",USA,Men,"clay pigeons, team",M,Gold
+Paris,1924,Shooting,Shooting,"HUGUES, F. H.",USA,Men,"clay pigeons, team",M,Gold
+Paris,1924,Shooting,Shooting,"MOEL, J.",USA,Men,"clay pigeons, team",M,Gold
+Paris,1924,Shooting,Shooting,"PLATT, Clarence B.",USA,Men,"clay pigeons, team",M,Gold
+Paris,1924,Shooting,Shooting,"SHARMAN, Samuel",USA,Men,"clay pigeons, team",M,Gold
+Paris,1924,Shooting,Shooting,"SILKWORTH, William",USA,Men,"clay pigeons, team",M,Gold
+Paris,1924,Shooting,Shooting,"BARNES, W.",CAN,Men,"clay pigeons, team",M,Silver
+Paris,1924,Shooting,Shooting,"BEATTIE, George",CAN,Men,"clay pigeons, team",M,Silver
+Paris,1924,Shooting,Shooting,"BLACK, John Hutchinson",CAN,Men,"clay pigeons, team",M,Silver
+Paris,1924,Shooting,Shooting,"MONTGOMERY, Robert James",CAN,Men,"clay pigeons, team",M,Silver
+Paris,1924,Shooting,Shooting,"NEWTON, S. R.",CAN,Men,"clay pigeons, team",M,Silver
+Paris,1924,Shooting,Shooting,"VANCE, Samuel Goodwin",CAN,Men,"clay pigeons, team",M,Silver
+Paris,1924,Shooting,Shooting,"HUGHES, Frank",USA,Men,trap (125 targets),M,Bronze
+Paris,1924,Shooting,Shooting,"HALASY, Gyula",HUN,Men,trap (125 targets),M,Gold
+Paris,1924,Shooting,Shooting,"HUBER, Konrad Walentin",FIN,Men,trap (125 targets),M,Silver
+Paris,1924,Tennis,Tennis,"BOROTRA, Jean R.",FRA,Men,doubles,M,Bronze
+Paris,1924,Tennis,Tennis,"LACOSTE, Jean René",FRA,Men,doubles,M,Bronze
+Paris,1924,Tennis,Tennis,"HUNTER, Francis Townsend",USA,Men,doubles,M,Gold
+Paris,1924,Tennis,Tennis,"RICHARDS, Vincent",USA,Men,doubles,M,Gold
+Paris,1924,Tennis,Tennis,"BRUGNON, Jacques",FRA,Men,doubles,M,Silver
+Paris,1924,Tennis,Tennis,"COCHET, Henri",FRA,Men,doubles,M,Silver
+Paris,1924,Tennis,Tennis,"COLYER, Evelyn Lucy",GBR,Women,doubles,W,Bronze
+Paris,1924,Tennis,Tennis,"SHEPHERD BARRON, Dorothy Cunliffe",GBR,Women,doubles,W,Bronze
+Paris,1924,Tennis,Tennis,"WIGHTMAN, Hazel Virginia",USA,Women,doubles,W,Gold
+Paris,1924,Tennis,Tennis,"WILLS-MOODY, Helen",USA,Women,doubles,W,Gold
+Paris,1924,Tennis,Tennis,"COVELL, Phyllis Lindrea",GBR,Women,doubles,W,Silver
+Paris,1924,Tennis,Tennis,"MAC KANE, Kathleen",GBR,Women,doubles,W,Silver
+Paris,1924,Tennis,Tennis,"TIMMER, Hendrik",NED,Men,mixed doubles,X,Bronze
+Paris,1924,Tennis,Tennis,"WILLIAMS, Richard Norris III",USA,Men,mixed doubles,X,Gold
+Paris,1924,Tennis,Tennis,"RICHARDS, Vincent",USA,Men,mixed doubles,X,Silver
+Paris,1924,Tennis,Tennis,"BOUMAN, Cornelia",NED,Women,mixed doubles,X,Bronze
+Paris,1924,Tennis,Tennis,"WIGHTMAN, Hazel Virginia",USA,Women,mixed doubles,X,Gold
+Paris,1924,Tennis,Tennis,"JESSUP, Marion",USA,Women,mixed doubles,X,Silver
+Paris,1924,Tennis,Tennis,"DE MORPURGO, Umberto",ITA,Men,singles,M,Bronze
+Paris,1924,Tennis,Tennis,"RICHARDS, Vincent",USA,Men,singles,M,Gold
+Paris,1924,Tennis,Tennis,"COCHET, Henri",FRA,Men,singles,M,Silver
+Paris,1924,Tennis,Tennis,"MAC KANE, Kathleen",GBR,Women,singles,W,Bronze
+Paris,1924,Tennis,Tennis,"WILLS-MOODY, Helen",USA,Women,singles,W,Gold
+Paris,1924,Tennis,Tennis,"VLASTO, Julie P.",FRA,Women,singles,W,Silver
+Paris,1924,Weightlifting,Weightlifting,"REINMANN, Arthur",SUI,Men,"- 60kg, one-two hand 5 events (featherweight)",M,Bronze
+Paris,1924,Weightlifting,Weightlifting,"GABETTI, Pierino",ITA,Men,"- 60kg, one-two hand 5 events (featherweight)",M,Gold
+Paris,1924,Weightlifting,Weightlifting,"STADLER, Andreas",AUT,Men,"- 60kg, one-two hand 5 events (featherweight)",M,Silver
+Paris,1924,Weightlifting,Weightlifting,"TAMMER, Harald",EST,Men,"+ 82.5kg, one-two hand 5 events (heavyweight)",M,Bronze
+Paris,1924,Weightlifting,Weightlifting,"TONANI, Giuseppe",ITA,Men,"+ 82.5kg, one-two hand 5 events (heavyweight)",M,Gold
+Paris,1924,Weightlifting,Weightlifting,"AIGNER, Franz",AUT,Men,"+ 82.5kg, one-two hand 5 events (heavyweight)",M,Silver
+Paris,1924,Weightlifting,Weightlifting,"DURDYS, Bohumil",TCH,Men,"60 - 67.5kg, one-two hand 5 events (lightweight)",M,Bronze
+Paris,1924,Weightlifting,Weightlifting,"DECOTTIGNIES, Edmond",FRA,Men,"60 - 67.5kg, one-two hand 5 events (lightweight)",M,Gold
+Paris,1924,Weightlifting,Weightlifting,"ZWERINA, Anton",AUT,Men,"60 - 67.5kg, one-two hand 5 events (lightweight)",M,Silver
+Paris,1924,Weightlifting,Weightlifting,"KIKKAS, Jaan",EST,Men,"67.5 - 75kg, one-two hand 5 events (middleweight)",M,Bronze
+Paris,1924,Weightlifting,Weightlifting,"GALIMBERTI, Carlo",ITA,Men,"67.5 - 75kg, one-two hand 5 events (middleweight)",M,Gold
+Paris,1924,Weightlifting,Weightlifting,"NEULAND, Alfred",EST,Men,"67.5 - 75kg, one-two hand 5 events (middleweight)",M,Silver
+Paris,1924,Weightlifting,Weightlifting,"FRIEDRICH, Leopold",AUT,Men,"75 - 82.5kg, one-two hand 5 e. (light-heavyweight)",M,Bronze
+Paris,1924,Weightlifting,Weightlifting,"RIGOULOT, Charles",FRA,Men,"75 - 82.5kg, one-two hand 5 e. (light-heavyweight)",M,Gold
+Paris,1924,Weightlifting,Weightlifting,"HÜNENBERGER, Fritz",SUI,Men,"75 - 82.5kg, one-two hand 5 e. (light-heavyweight)",M,Silver
+Paris,1924,Wrestling,Wrestling Free.,"HINES, Bryan",USA,Men,- 56kg (bantamweight),M,Bronze
+Paris,1924,Wrestling,Wrestling Free.,"PIHLAJAMÄKI, Kustaa",FIN,Men,- 56kg (bantamweight),M,Gold
+Paris,1924,Wrestling,Wrestling Free.,"MÄKINEN, Kaarlo E.",FIN,Men,- 56kg (bantamweight),M,Silver
+Paris,1924,Wrestling,Wrestling Free.,"MAC DONALD, Andrew",GBR,Men,+ 87kg (heavyweight),M,Bronze
+Paris,1924,Wrestling,Wrestling Free.,"STEELE, Harry",USA,Men,+ 87kg (heavyweight),M,Gold
+Paris,1924,Wrestling,Wrestling Free.,"WERNLI, Henri",SUI,Men,+ 87kg (heavyweight),M,Silver
+Paris,1924,Wrestling,Wrestling Free.,"NAITO, Katsutoshi",JPN,Men,56 - 61kg (featherweight),M,Bronze
+Paris,1924,Wrestling,Wrestling Free.,"REED, Robin",USA,Men,56 - 61kg (featherweight),M,Gold
+Paris,1924,Wrestling,Wrestling Free.,"NEWTON, Chester",USA,Men,56 - 61kg (featherweight),M,Silver
+Paris,1924,Wrestling,Wrestling Free.,"HAAVISTO, Arvo",FIN,Men,61 - 66kg (lightweight),M,Bronze
+Paris,1924,Wrestling,Wrestling Free.,"VIS, Russell",USA,Men,61 - 66kg (lightweight),M,Gold
+Paris,1924,Wrestling,Wrestling Free.,"WIKSTRÖM, Volmari W.",FIN,Men,61 - 66kg (lightweight),M,Silver
+Paris,1924,Wrestling,Wrestling Free.,"MÜLLER, Otto",SUI,Men,66 - 72kg (welterweight),M,Bronze
+Paris,1924,Wrestling,Wrestling Free.,"GEHRI, Hermann",SUI,Men,66 - 72kg (welterweight),M,Gold
+Paris,1924,Wrestling,Wrestling Free.,"LEINO, Eino Aukusti",FIN,Men,66 - 72kg (welterweight),M,Silver
+Paris,1924,Wrestling,Wrestling Free.,"PEKKALA, Vilho F.",FIN,Men,72 - 79kg (middleweight),M,Bronze
+Paris,1924,Wrestling,Wrestling Free.,"HAGGMANN, Fritz",SUI,Men,72 - 79kg (middleweight),M,Gold
+Paris,1924,Wrestling,Wrestling Free.,"OLLIVIER, Pierre",BEL,Men,72 - 79kg (middleweight),M,Silver
+Paris,1924,Wrestling,Wrestling Free.,"COURANT, Charles",SUI,Men,79 - 87kg (light-heavyweight),M,Bronze
+Paris,1924,Wrestling,Wrestling Free.,"SPELLMAN, John Franklin",USA,Men,79 - 87kg (light-heavyweight),M,Gold
+Paris,1924,Wrestling,Wrestling Free.,"SVENSSON, Rudolf",SWE,Men,79 - 87kg (light-heavyweight),M,Silver
+Paris,1924,Wrestling,Wrestling Gre-R,"IKONEN, Väinö V.",FIN,Men,- 58kg (bantamweight),M,Bronze
+Paris,1924,Wrestling,Wrestling Gre-R,"PÜTSEP, Eduard",EST,Men,- 58kg (bantamweight),M,Gold
+Paris,1924,Wrestling,Wrestling Gre-R,"AHLFORS, Anselm",FIN,Men,- 58kg (bantamweight),M,Silver
+Paris,1924,Wrestling,Wrestling Gre-R,"BADO, Rajmund",HUN,Men,+ 82.5kg (super heavyweight),M,Bronze
+Paris,1924,Wrestling,Wrestling Gre-R,"DEGLANE, Henri",FRA,Men,+ 82.5kg (super heavyweight),M,Gold
+Paris,1924,Wrestling,Wrestling Gre-R,"ROSENQVIST, Edil",FIN,Men,+ 82.5kg (super heavyweight),M,Silver
+Paris,1924,Wrestling,Wrestling Gre-R,"MALMBERG, Eric",SWE,Men,58 - 62kg (featherweight),M,Bronze
+Paris,1924,Wrestling,Wrestling Gre-R,"ANTTILA, Kalle",FIN,Men,58 - 62kg (featherweight),M,Gold
+Paris,1924,Wrestling,Wrestling Gre-R,"TOIVOLA, Aleksander",FIN,Men,58 - 62kg (featherweight),M,Silver
+Paris,1924,Wrestling,Wrestling Gre-R,"WESTERLUND, Kaarlo",FIN,Men,62 - 67.5kg (lightweight),M,Bronze
+Paris,1924,Wrestling,Wrestling Gre-R,"FRIMAN, Oskar David",FIN,Men,62 - 67.5kg (lightweight),M,Gold
+Paris,1924,Wrestling,Wrestling Gre-R,"KERESZTES, Lajos",HUN,Men,62 - 67.5kg (lightweight),M,Silver
+Paris,1924,Wrestling,Wrestling Gre-R,"STEINBERG, Roman",EST,Men,67.5 - 75kg (middleweight),M,Bronze
+Paris,1924,Wrestling,Wrestling Gre-R,"WESTERLUND, Edward Wilhelm",FIN,Men,67.5 - 75kg (middleweight),M,Gold
+Paris,1924,Wrestling,Wrestling Gre-R,"LINDFORS, Arthur",FIN,Men,67.5 - 75kg (middleweight),M,Silver
+Paris,1924,Wrestling,Wrestling Gre-R,"PELLINEN, Onni",FIN,Men,75 - 82.5kg (light-heavyweight),M,Bronze
+Paris,1924,Wrestling,Wrestling Gre-R,"WESTERGREN, Carl",SWE,Men,75 - 82.5kg (light-heavyweight),M,Gold
+Paris,1924,Wrestling,Wrestling Gre-R,"SVENSSON, Rudolf",SWE,Men,75 - 82.5kg (light-heavyweight),M,Silver
